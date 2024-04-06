@@ -1,0 +1,95 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Acervo de TI</title>
+  <subtitle>Projeto de Divulgação Científica.</subtitle>
+  <updated>2024-04-06T02:48:37-03:00</updated>
+  <author>
+    <name>Matheus Laidler</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="pt-BR"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Matheus Laidler </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Desvendando a Forense Digital</title>
+    <link href="http://localhost:4000/posts/forense-%C3%A0-primeira-vista/" rel="alternate" type="text/html" title="Desvendando a Forense Digital" />
+    <published>2023-08-20T13:29:10-03:00</published>
+  
+    <updated>2024-04-06T02:41:03-03:00</updated>
+  
+    <id>http://localhost:4000/posts/forense-%C3%A0-primeira-vista/</id>
+    <content src="http://localhost:4000/posts/forense-%C3%A0-primeira-vista/" />
+    <author>
+      <name>matheus</name>
+    </author>
+
+  
+    
+    <category term="Forensic Trail" />
+    
+  
+
+  <summary>Conhecendo a computação forense</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Desvendando os perigos em uma WiFi</title>
+    <link href="http://localhost:4000/posts/perigos-wifi/" rel="alternate" type="text/html" title="Desvendando os perigos em uma WiFi" />
+    <published>2021-05-12T00:00:00-03:00</published>
+  
+    <updated>2024-04-06T02:41:03-03:00</updated>
+  
+    <id>http://localhost:4000/posts/perigos-wifi/</id>
+    <content src="http://localhost:4000/posts/perigos-wifi/" />
+    <author>
+      <name>matheus</name>
+    </author>
+
+  
+    
+    <category term="Way Of Security" />
+    
+  
+
+  <summary>Compreenda os principais riscos e perigos ocultos de uma rede WiFi</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Terminal do zero</title>
+    <link href="http://localhost:4000/posts/terminal/" rel="alternate" type="text/html" title="Terminal do zero" />
+    <published>2020-02-25T00:00:00-03:00</published>
+  
+    <updated>2024-04-06T02:41:03-03:00</updated>
+  
+    <id>http://localhost:4000/posts/terminal/</id>
+    <content src="http://localhost:4000/posts/terminal/" />
+    <author>
+      <name>matheus</name>
+    </author>
+
+  
+    
+    <category term="Road 2 Technology" />
+    
+  
+
+  <summary>Linux e linhas de comando à primeira vista</summary>
+
+  </entry>
+
+</feed>
+
+
