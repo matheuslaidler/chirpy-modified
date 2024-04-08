@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
   <title>Acervo de TI</title>
-  <subtitle>Projeto de Divulgação Científica.</subtitle>
-  <updated>2024-04-06T02:48:37-03:00</updated>
+  <subtitle>Projeto de Divulgação Científica da Computação.</subtitle>
+  <updated>2024-04-08T01:14:13-03:00</updated>
   <author>
     <name>Matheus Laidler</name>
     <uri>http://localhost:4000/</uri>
@@ -20,14 +20,40 @@
 
   
   <entry>
+    <title>Invadindo rede wifi na prática</title>
+    <link href="http://localhost:4000/posts/hackeando-wifi/" rel="alternate" type="text/html" title="Invadindo rede wifi na prática" />
+    <published>2023-08-25T03:19:12-03:00</published>
+  
+    <updated>2024-04-07T15:20:23-03:00</updated>
+  
+    <id>http://localhost:4000/posts/hackeando-wifi/</id>
+    <content src="http://localhost:4000/posts/hackeando-wifi/" />
+    <author>
+      <name>matheus</name>
+    </author>
+
+  
+    
+    <category term="SecLab" />
+    
+    <category term="Way Of Security" />
+    
+  
+
+  <summary>Mostrando como hackeei a rede wifi de uma vizinha da minha mãe</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Desvendando a Forense Digital</title>
-    <link href="http://localhost:4000/posts/forense-%C3%A0-primeira-vista/" rel="alternate" type="text/html" title="Desvendando a Forense Digital" />
+    <link href="http://localhost:4000/posts/forense-computacional/" rel="alternate" type="text/html" title="Desvendando a Forense Digital" />
     <published>2023-08-20T13:29:10-03:00</published>
   
-    <updated>2024-04-06T02:41:03-03:00</updated>
+    <updated>2023-08-20T13:29:10-03:00</updated>
   
-    <id>http://localhost:4000/posts/forense-%C3%A0-primeira-vista/</id>
-    <content src="http://localhost:4000/posts/forense-%C3%A0-primeira-vista/" />
+    <id>http://localhost:4000/posts/forense-computacional/</id>
+    <content src="http://localhost:4000/posts/forense-computacional/" />
     <author>
       <name>matheus</name>
     </author>
@@ -72,7 +98,7 @@
     <link href="http://localhost:4000/posts/terminal/" rel="alternate" type="text/html" title="Terminal do zero" />
     <published>2020-02-25T00:00:00-03:00</published>
   
-    <updated>2024-04-06T02:41:03-03:00</updated>
+    <updated>2024-04-06T12:42:52-03:00</updated>
   
     <id>http://localhost:4000/posts/terminal/</id>
     <content src="http://localhost:4000/posts/terminal/" />
@@ -87,6 +113,36 @@
   
 
   <summary>Linux e linhas de comando à primeira vista</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Customize the Favicon</title>
+    <link href="http://localhost:4000/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
+    <published>2019-08-10T13:34:00-03:00</published>
+  
+    <updated>2019-08-10T13:34:00-03:00</updated>
+  
+    <id>http://localhost:4000/posts/customize-the-favicon/</id>
+    <content src="http://localhost:4000/posts/customize-the-favicon/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  <summary>The favicons of Chirpy are placed in the directory assets/img/favicons/. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
+
+Generate the favicon
+
+Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool Real Favicon Generator and click the button Select your Favicon image ...</summary>
 
   </entry>
 
